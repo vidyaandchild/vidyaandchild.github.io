@@ -1,0 +1,92 @@
+html, body, div, span, ul, li, p, a{
+    padding:0;
+    margin:0;
+    border:0;
+  }
+  body{
+    min-width: 800px;
+    background: rgb(244, 227, 236);
+  }
+  a, a:hover{
+    text-decoration:none;
+  }
+  .nav-links{
+    text-align: right;
+  }
+  .nav-links li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 10px;
+  }
+  nav{
+    width:100%;
+    height:60px;
+    color:#454340;
+    text-align:center;
+    border-radius:4px;
+    background: rgb(70, 113, 132);
+    background: linear-gradient(rgb(112, 194, 232), rgb(70, 113, 132));
+    border:1px solid transparent;
+    border-bottom-color:red;
+    margin:40px 0;
+  }
+  nav div{
+    display:inline-block;
+    width:12%;
+    height:60px;
+    position:relative;
+    box-sizing:border-box;
+    overflow: hidden;
+  }
+  nav div:hover{
+    overflow:visible;
+  
+  }
+  nav div ul{
+    position:absolute;
+    z-index:11;
+    width:100%;
+    box-sizing:border-box;
+    border-bottom: 3px solid red;
+    border-radius: 5px;
+    
+  }
+  nav div ul:hover{
+    background: linear-gradient(rgb(87, 160, 194), rgb(70, 113, 132));
+    border-top: 1px solid red;
+  }
+  nav div ul li{
+    list-style-type:none;
+    padding:8px 12px;
+    box-sizing:border-box;
+    border:1px solid transparent;
+    border-top-color:#ccc;
+  }
+
+  nav div ul li:nth-child(1){
+    border-top-width:0;
+    height:62px;
+  }
+
+  nav div ul li:hover{
+    color:black;
+  }
+
+  nav div ul li a{
+    text-decoration:none;
+    color:#333;
+  }
+
+  nav div ul li a:hover{
+    text-decoration:none;
+  }
+
+  .carousel-inner > .item > img{
+    width:100%;
+  }
+
+  li div.middle-aligner{
+    height:38px;
+    display:table-cell;
+    vertical-align: middle;
+  }
