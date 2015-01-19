@@ -1,0 +1,42 @@
+#start_image
+{
+	height:260px;
+	width: 430px;
+	padding:25px 0px;
+}
+.about-us-text
+{
+	width: 100%;
+	padding:0px 25px;
+}
+.content
+{	
+	width: 400px;
+}
+.main_wrapper
+{
+	background-color: rgb(244, 227, 236);
+}
+#secimage
+{
+	height:275px;
+	width: 430px;
+	padding:5px 0px 0px 0px;
+}
+
+.presence_image
+{
+	height: 250px;
+	width: 415px;
+	padding:35px 0px 35px 0px;
+}
+
+.table-responsive
+{
+	width: 600px;
+}
+#pmessage{
+	height: 250px;
+	width: 65%;
+	padding:35px 0px 0px 40px;
+}
