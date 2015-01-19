@@ -49,3 +49,8 @@
 #team{
 	padding:0px 20px 0px 20px;
 }
+ #about_body{
+    width:80%;
+    background-color: white;
+    height:2500px;
+  }

@@ -1,10 +1,10 @@
   body{
     background: rgb(244, 227, 236);
   }
-  .container{
+  #index_main{
     width:80%;
     background-color: white;
-    height:2500px;
+    height:799px;
   }
 html, body, div, span, ul, li, p, a{
     padding:0;
