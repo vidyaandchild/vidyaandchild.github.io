@@ -1,4 +1,2 @@
-vidyaandchild
-=============
 
-Vidya And Child website redesign
+Vidyaandchild official website !!  This website is hosted on vidyaandchild.org !!
