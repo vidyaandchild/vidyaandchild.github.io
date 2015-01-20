@@ -2,9 +2,9 @@
     background: rgb(244, 227, 236);
   }
   #index_main{
-    width:80%;
+    width:62%;
     background-color: white;
-    height:799px;
+    height:1130px;
   }
 html, body, div, span, ul, li, p, a{
     padding:0;
@@ -93,5 +93,9 @@ html, body, div, span, ul, li, p, a{
     height:38px;
     display:table-cell;
     vertical-align: middle;
+  }
+
+  ul{
+    list-style-type: none;
   }
   
