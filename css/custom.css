@@ -48,7 +48,6 @@ html, body, div, span, ul, li, p, a{
   }
   nav div ul{
     position:absolute;
-    
     width:100%;
     box-sizing:border-box;
     border-bottom: 3px solid red;

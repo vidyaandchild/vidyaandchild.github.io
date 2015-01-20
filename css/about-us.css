@@ -50,7 +50,18 @@
 	padding:0px 20px 0px 20px;
 }
  #about_body{
-    width:80%;
+    width:78%;
     background-color: white;
     height:2500px;
+  }
+   #cover1{
+    position: fixed;
+    margin-left: 232px;
+    width:75%;
+    height:75px;
+    top:0px;
+    background-color: rgb(244, 227, 236);
+  }
+  #row1{
+  	padding:140px 0px 0px 0px;
   }
