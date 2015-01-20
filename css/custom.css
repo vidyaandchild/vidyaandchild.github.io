@@ -4,7 +4,7 @@
   #index_main{
     width:62%;
     background-color: white;
-    height:1130px;
+    height:1150px;
   }
 html, body, div, span, ul, li, p, a{
     padding:0;
@@ -48,7 +48,7 @@ html, body, div, span, ul, li, p, a{
   }
   nav div ul{
     position:absolute;
-    z-index:11;
+    
     width:100%;
     box-sizing:border-box;
     border-bottom: 3px solid red;
@@ -97,5 +97,13 @@ html, body, div, span, ul, li, p, a{
 
   ul{
     list-style-type: none;
+  }
+  #cover{
+    position: fixed;
+    margin-left: 232px;
+    width:70%;
+    height:75px;
+    top:0px;
+    background-color: rgb(244, 227, 236);
   }
   
