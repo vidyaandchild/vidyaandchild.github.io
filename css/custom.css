@@ -54,7 +54,7 @@ html, body, div, span, ul, li, p, a{
     
   }
   nav div ul:hover{
-    background: linear-gradient(rgb(87, 160, 194), rgb(70, 113, 132));
+    background: linear-gradient(rgb(112, 170, 199), rgb(80, 133, 152));
     border-top: 1px solid red;
   }
   nav div ul li{
@@ -70,18 +70,15 @@ html, body, div, span, ul, li, p, a{
     height:62px;
   }
 
-  nav div ul li:hover{
-    color:black;
+  nav div ul li a:hover{
+    text-decoration:none;
+    color:white;
   }
 
   nav div ul li a{
-    text-decoration:none;
-    color:#333;
+    color:#282828;
   }
 
-  nav div ul li a:hover{
-    text-decoration:none;
-  }
 
   .carousel-inner > .item > img{
     width:100%;
