@@ -2,9 +2,9 @@
     background: rgb(244, 227, 236);
   }
   #index_main{
-    width:62%;
+    width:78%;
     background-color: white;
-    height:1150px;
+    height:100%;
   }
 html, body, div, span, ul, li, p, a{
     padding:0;
@@ -32,7 +32,6 @@ html, body, div, span, ul, li, p, a{
     background: linear-gradient(rgb(112, 194, 232), rgb(70, 113, 132));
     border:1px solid transparent;
     border-bottom-color:red;
-    margin:40px 0;
   }
   nav div{
     display:inline-block;
