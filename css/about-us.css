@@ -1,32 +1,42 @@
 #start_image
 {
-	width: 100%;
-	padding:25px 0px 0px 0px;
-	height:280px;
+	width: 70%;
+	height:290px;
+	margin-left: 70px;
+	border:2px solid;
+	border-radius: 15%;
+	margin-top: 65px;
 }
 .about-us-text
 {
-	width: 100%;
+	width: 95%;
+	padding-top:45px;
 }
-.content
-{	
-	width: 400px;
+.about-us-text1
+{
+	width: 95%;
 }
+
 .main_wrapper
 {
 	background-color: rgb(244, 227, 236);
 }
 #secimage
 {
-	width: 100%;
-	padding:5px 0px 0px 0px;
+	width: 70%;
+	height:240px;
+	border:2px solid;
+	border-radius: 15%;
+	margin-top: 60px;
+	margin-left: 40px;
 }
 
 .presence_image
 {
 	height: 260px;
 	width: 100%;
-	padding:40px 0px 25px 0px;
+	border: 2px solid;
+	border-radius: 30px;
 }
 
 .table-responsive
@@ -34,14 +44,14 @@
 	width: 100%;
 }
 #pmessage{
-	width: 55%;
-	padding:35px 0px 0px 15px;
+	width: 100%;
+	padding:35px 0px 10px 15px;
 }
 .presence_heading{
 	text-align: center;
 }
 #orgstr{
-	padding:0px 20px 0px 20px;
+	padding:40px 20px 0px 20px;
 }
 #team{
 	padding:0px 20px 0px 20px;
@@ -65,4 +75,51 @@
 
  #last_message{
  	padding:0px 0px 0px 20px;
+ }
+ #mission_left{
+ 	border: 2px solid;
+	border-radius: 50px;
+	height: 120%;
+	width: 41%;
+	top: 70px;
+	padding-left: 35px;
+	background-color: #6CFFC4;
+	margin-left: 40px;
+ }
+ #objective_right{
+ 	border: 2px solid;
+	border-radius: 30px;
+	height: 120%;
+	width: 33%;
+	top:90px;
+	padding-left: 35px;
+	background-color: #6CFFC4;
+	margin-left: 60px;
+ }
+ #out{
+ 	padding-top: 40px;
+ }
+ #belief1{
+ 	border: 2px solid;
+ 	background-color: #FFFF94;
+ 	width:70%;
+ 	margin-left: 110px;
+ 	text-align:center;
+ }
+ #belief_image{
+ 	width: 60%;
+	height: 320px;
+	margin-left: 150px;
+	margin-top: 20px;
+	padding-bottom: 15px;
+ }
+ #belief2{
+ 	border: 2px solid;
+ 	width:70%;
+ 	margin-left: 110px;
+ 	text-align:center;
+ 	line-height: 180%;
+ }
+ #belief{
+ 	padding-top: 40px;
  }
