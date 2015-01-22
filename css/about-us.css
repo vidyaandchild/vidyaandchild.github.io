@@ -103,20 +103,20 @@
  	border: 2px solid;
  	background-color: #FFFF94;
  	width:70%;
- 	margin-left: 110px;
+ 	margin-left: 15%;
  	text-align:center;
  }
  #belief_image{
  	width: 60%;
 	height: 320px;
-	margin-left: 150px;
+	margin-left: 19%;
 	margin-top: 20px;
 	padding-bottom: 15px;
  }
  #belief2{
  	border: 2px solid;
  	width:70%;
- 	margin-left: 110px;
+ 	margin-left: 15%;
  	text-align:center;
  	line-height: 180%;
  }
