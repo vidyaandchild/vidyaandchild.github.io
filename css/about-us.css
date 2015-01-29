@@ -123,3 +123,35 @@
  #belief{
  	padding-top: 40px;
  }
+ #image1{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+ }
+ #image2{
+ 	width: 90%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 15px;
+ }
+ #image3{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+ }
+  #image4{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px
+ }
+   #image5{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px
+ }
