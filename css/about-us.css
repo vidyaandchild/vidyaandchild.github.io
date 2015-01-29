@@ -155,3 +155,75 @@
 	border-radius: 25px;
 	margin-top: 20px
  }
+   #image6{
+ 	width: 90%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px
+ }
+  #image7{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px
+ }
+ #middle{
+ 	border: 2px solid;
+ 	background-color: #FFFF94;
+ 	width:50%;
+ 	margin-left: 24%;
+ 	text-align:center;
+ 	padding-top:20px;
+ 	font-family: "Lucida Console";
+ }
+  #middle2{
+ 	border: 2px solid;
+ 	background-color: #FFFF94;
+ 	width:50%;
+ 	margin-left: 24%;
+ 	text-align:center;
+ 	margin-top:40px;
+ }
+ #image8{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px;
+	margin-left: 20%;
+ }
+ #image9{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px;
+	margin-left: 10%;
+ }
+  #middle3{
+ 	border: 2px solid;
+ 	background-color: #FFFF94;
+ 	width:50%;
+ 	margin-left: 24%;
+ 	text-align:center;
+ 	margin-top:40px;
+ }
+ #image10{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px;
+	margin-left: 20%;
+ }
+ #image11{
+ 	width: 75%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px;
+	margin-left: 10%;
+ }
+
