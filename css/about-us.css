@@ -234,4 +234,22 @@
 	margin-top: 20px;
 	margin-left: 10%;
  }
+ .success{
+ 	width: 70%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px;
+ }
+ #centerpart{
+ 	border: 2px solid;
+ 	border-radius: 5px;
+ }
+ .success1{
+ 	width: 35%;
+	height: 180px;
+	border: 2px solid;
+	border-radius: 25px;
+	margin-top: 20px;
+ }
 

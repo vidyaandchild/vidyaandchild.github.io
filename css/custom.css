@@ -13,6 +13,7 @@ html, body, div, span, ul, li, p, a{
   }
   a, a:hover{
     text-decoration:none;
+    color:black;
   }
   .nav-links{
     text-align: right;
@@ -43,26 +44,26 @@ html, body, div, span, ul, li, p, a{
   }
   nav div:hover{
     overflow:visible;
-  
   }
   nav div ul{
     position:absolute;
     width:100%;
-    box-sizing:border-box;
-    border-bottom: 2px solid red;
     border-radius: 5px;
-    
   }
   nav div ul:hover{
-    background: linear-gradient(rgb(112, 170, 199), rgb(80, 133, 152));
-    border-top: 1px solid red;
+    background: #f9f9f9; /* Show a solid color for older browsers */
+    background: -moz-linear-gradient(#f9f9f9, #e5e5e5);
+    background: -o-linear-gradient(#f9f9f9, #e5e5e5);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f9f9f9), to(#e5e5e5));
+    box-sizing:border-box;
+    border:1px solid transparent;
+    border-bottom-color:red;
   }
   nav div ul li{
     list-style-type:none;
     padding:8px 12px;
-    box-sizing:border-box;
-    border:1px solid transparent;
-    border-top-color:#ccc;
+    border-bottom: 1px solid;
+    border-radius: 3px;
   }
 
   nav div ul li:nth-child(1){
@@ -72,7 +73,11 @@ html, body, div, span, ul, li, p, a{
 
   nav div ul li a:hover{
     text-decoration:none;
-    color:white;
+    color:#000099;
+  }
+  nav div ul li:hover{
+       border-bottom:2px solid;
+       border-radius: 7px;
   }
 
   nav div ul li a{
