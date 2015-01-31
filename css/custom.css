@@ -82,6 +82,7 @@ html, body, div, span, ul, li, p, a{
 
   nav div ul li a{
     color:#282828;
+    text-decoration: none;
   }
 
 
