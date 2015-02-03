@@ -107,4 +107,14 @@ html, body, div, span, ul, li, p, a{
     top:0px;
     background-color: rgb(244, 227, 236);
   }
-  
+  #right{
+  top: 50px;
+  margin-right: 20px;
+  }
+  #left{
+  top: 50px;
+  margin-left: 20px;
+  }
+  .carousel-control{
+    width:0% !important;
+  }
